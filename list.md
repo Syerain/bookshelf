@@ -19,5 +19,19 @@ The Art of Command Line
 
 Effective Modern C++
 
+中国神怪大辞典 by 峦保群
+
+中国古代服饰研究 by 沈从文
+
+中国建筑史 by 梁思成
+
+中国古代文化常识 by 王力 
+
+中国古代房内考 by 高罗佩
+
+中国方术正考 by 李零
+
+中国方术续考 by 李零
+
 社会学的想象力
 
