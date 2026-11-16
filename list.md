@@ -1,6 +1,11 @@
 深入理解计算机系统
 Computer Systems: A Programmer's Perspective
 
+计算机组成与体系结构
+Computer Organization and Architecture
+
+TCP/IP 详解
+
 go concurrency distilled
 
 neural network and deep learning
